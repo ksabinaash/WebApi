@@ -8,6 +8,7 @@ namespace Assignment1_Api.Models
     public class Item
     {
         public string ITCODE { get; set; }
+        
         public string ITDESC { get; set; }
         public decimal ITRATE { get; set; }
     }
